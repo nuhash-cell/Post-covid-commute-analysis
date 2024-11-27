@@ -10,6 +10,7 @@ As a Data Visualization Specialist at the Metropolitan Transportation Authority 
 
 ![Snapshot of the Dashboard](https://github.com/nuhash-cell/Post-covid-commute-analysis/blob/main/Snapshots/ReportPage.png)
 
+![Dashboard Preview](https://github.com/nuhash-cell/Post-covid-commute-analysis/blob/main/Snapshots/maven.gif)
 ## Dataset
 The dataset includes daily passenger flows across seven types of transportation systems over a span of five years, covering the COVID-19 period up to October 2024. It also includes percentages that show how the current flow compares to pre-COVID levels.
 
